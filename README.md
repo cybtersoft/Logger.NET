@@ -2,9 +2,11 @@ Logger.NET
 ==========
 
 Table of contents:
-  - 1. Description
-  - 2. Usage
-  - 3. License
+------------------
+   1. Description
+   2. Usage
+   3. License
+   4. Things in the future(ToDo)
 
 1. Description
 ---------------
@@ -20,8 +22,15 @@ Then somewhere in your Code(to log):
 
 --log("Core", INFO, "Started program.")
 
-
-If you want a video: (making the video in 5min... please wait! :D)
 3. License
 ----------
 See LICENSE.txt; this proj. is under CC-BY 4.0 International
+
+4. Things in the future(ToDo)
+-----------------------------
+- You can use your own colours
+- You can use your own threats
+- something else? upload your idea to ToDos.txt!!
+
+Thanks for using my library!!! :)
+=================================
