@@ -10,11 +10,16 @@
 
     End Enum
 
+    ''' <summary>
+    ''' Prints general Information.
+    ''' </summary>
+    ''' <returns></returns>
+    ''' <remarks></remarks>
     Public Shared Function printInformation() As Boolean
         Try
             Console.WriteLine("    -- PRINTING INFORMATION --     ")
             Console.WriteLine("    Application: Logger            ")
-            Console.WriteLine("    License    : CC-BY(see LICENSE)")
+            Console.WriteLine("    License    : CC-BY(see LICENSE.txt)")
             Console.WriteLine("    Copyright  : (c) 2014 by Felipe M. M. Kaiser     ")
             Console.WriteLine("    General    : [Module][Threat][DD/MM/YYYY HH:MM:SS] Message     ")
             Console.WriteLine("    --   END OF PRINTING    --     ")
